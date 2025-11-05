@@ -79,11 +79,11 @@ header p {
   text-align: center; 
 }
 
-.video iframe {
+.video {
   display: block; 
   margin: 0 auto; 
-  width: 560px; 
-  height: 315px; 
+  width: 400px; 
+  height: auto; 
   border-radius: 10px; 
   border: none; 
 }
@@ -94,3 +94,4 @@ footer {
   font-size: 14px; 
   margin-top: 30px; 
 }
+
